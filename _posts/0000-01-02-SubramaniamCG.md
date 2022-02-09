@@ -1,6 +1,7 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: " *Madagascar __food__* !"
 ---
-Your text
+*Madagascar __food__* .
+
 Use the left arrow to go back!
